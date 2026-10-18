@@ -1,0 +1,26 @@
+{
+  "name": "DigiMoto PRO - Control de Taller de Motocicletas",
+  "short_name": "DigiMoto",
+  "id": "/",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b0c10",
+  "theme_color": "#ff6a00",
+  "description": "Sistema de órdenes de servicio, inventario de recepción, cotizaciones y control de taller de motocicletas y cuatrimotos.",
+  "icons": [
+    {
+      "src": "digimoto_logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "digimoto_logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
